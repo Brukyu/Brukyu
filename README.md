@@ -1,16 +1,23 @@
-### Hi there 👋
+<div>
+  
+  <h1 align="center">
+    Hi, I'm Bruno!
+  </h1>
 
-<!--
-**Brukyu/Brukyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/brukyu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brukyu&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brukyu&theme=midnight-purple&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+
